@@ -10,15 +10,15 @@ public class Todo {
 
     @Id
     @GeneratedValue
-    private Float id;
+    private Long id;
     private String name;
     private boolean isCompleted;
 
-    public Float getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(Float id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
