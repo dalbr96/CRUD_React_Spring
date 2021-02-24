@@ -1,3 +1,6 @@
 crud/.idea/
 crud/.mvn/
 crud/target/
+my-crud/.vscode/
+my-crud/node_modules
+
